@@ -1,16 +1,52 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1>Всем привет , меня зовут Роман👋</h1>
+    <h3>Я Frontend разработчик из лучшего города Земли - Тюмени</h3>
+</div>
 
-<!--
-**polezhaevr/polezhaevr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="socials" align="center">
+    <a href="https://t.me/polezhaevr"> 
+    <img src = "https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
+    </a>
+    <a href="https://vk.com/r.armstrong95"> 
+    <img src = "https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vkontakte"/>
+    </a>
+</div>
 
-Here are some ideas to get you started:
+## 👨‍💻 Немного обо мне: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Родился на Ямале. Закончил ТюмГНГУ по специальности  информационные системы и технологии. Работаю в крупной
+газодобывающей компании в сфере КАиТ (комплексной автоматизации и телемахиники ). Всегда увлекался IT технологиями , но с недавних пор занимаюсь Frontend разработкой. С декабря 2022 по 2023 год закончил курс Яндекс практикума - веб разрабочтик.
+
+### 💻 Технологии и инструменты:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="50px" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="50px" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js"  width="50px" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="nodejs" width="50px" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="50px" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="sass" width="50px" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" title="less" width="50px" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongo" width="50px" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="git" width="50px" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" width="50px" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="niginx" width="50px" height="50px"/>
+
+### ⚙️ Статистика:
+<div id="stats" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=polezhaevr&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=polezhaevr&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=polezhaevr&theme=github_dark" alt=""/>
+</div>
+          
+          
+          
+          
+          
+          
+          
+
+        
+
+
+
+
+
